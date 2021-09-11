@@ -1,5 +1,5 @@
 /*
-    EFFICIENT CLIENT SSL WITH TWEAKLY
+    EFFICIENT SSL CLIENT WITH TWEAKLY
     Board : Nano 33 IoT
     by Mirko Pacioni
     (c) Filo Connesso
