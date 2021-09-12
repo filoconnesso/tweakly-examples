@@ -38,8 +38,8 @@ void setup() {
   }
 
   //Check Wi-Fi firmware version
-  String fv = WiFi.firmwareVersion();
-  if (fv < WIFI_FIRMWARE_LATEST_VERSION) {
+  String fw = WiFi.firmwareVersion();
+  if (fw < WIFI_FIRMWARE_LATEST_VERSION) {
     Serial.println("Please upgrade the firmware");
   }
 
